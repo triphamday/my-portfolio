@@ -102,9 +102,10 @@ const about: About = {
     title: "Introduction",
     description: (
       <>
-        Selene is a Jakarta-based design engineer with a passion for transforming complex challenges
-        into simple, elegant design solutions. Her work spans digital interfaces, interactive
-        experiences, and the convergence of design and technology.
+        I am a data-oriented professional passionate about extracting insights from data to solve real-world problems. 
+        My work focuses on data analysis, data modeling, and analytical thinking, with the goal of transforming raw data 
+        into clear insights that support strategic decisions. I am particularly interested in leveraging data 
+        as a foundation for both business analysis and data-driven solutions.
       </>
     ),
   },
@@ -136,23 +137,7 @@ const about: About = {
             height: 9,
           },
         ],
-      },
-      {
-        company: "Creativ3",
-        timeframe: "2018 - 2022",
-        role: "Lead Designer",
-        achievements: [
-          <>
-            Developed a design system that unified the brand across multiple platforms, improving
-            design consistency by 40%.
-          </>,
-          <>
-            Led a cross-functional team to launch a new product line, contributing to a 15% increase
-            in overall company revenue.
-          </>,
-        ],
-        images: [],
-      },
+      }
     ],
   },
   studies: {
