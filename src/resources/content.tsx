@@ -113,17 +113,18 @@ const about: About = {
     title: "Work Experience",
     experiences: [
       {
-        company: "FLY",
-        timeframe: "2022 - Present",
-        role: "Senior Design Engineer",
+        company: "FresherUP",
+        timeframe: "August 2025 - November 2025",
+        role: "Data Analyst Intern",
         achievements: [
           <>
-            Redesigned the UI/UX for the FLY platform, resulting in a 20% increase in user
-            engagement and 30% faster load times.
+            Built automated data crawling workflows using n8n to collect job postings from recruitment websites.
           </>,
           <>
-            Spearheaded the integration of AI tools into design workflows, enabling designers to
-            iterate 50% faster.
+            Developed data cleaning and preprocessing workflows in n8n to standardize and validate collected data.
+          </>,
+          <>
+            Designed and executed automated email campaigns for partners using Mailjet integrated with workflow triggers.
           </>,
         ],
         images: [
@@ -159,12 +160,8 @@ const about: About = {
     title: "Studies",
     institutions: [
       {
-        name: "University of Jakarta",
-        description: <>Studied software engineering.</>,
-      },
-      {
-        name: "Build the Future",
-        description: <>Studied online marketing and personal branding.</>,
+        name: "University of Information Technology - VNUHCM",
+        description: <>Data Science</>,
       },
     ],
   },
